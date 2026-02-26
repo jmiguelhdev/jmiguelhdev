@@ -18,10 +18,9 @@
 
 ### 🚀 ¿En qué estoy trabajando ahora mismo?
 
-* 💻 Desarrollando **[KMPappPiola](https://github.com/jmiguelhdev/KMPappPiola)**, explorando a fondo el mundo de Kotlin Multiplatform.
-* 🐧 Dominando la línea de comandos y exprimiendo herramientas de terminal.
-* 🌱 Siempre aprendiendo nuevas formas de optimizar mis flujos de trabajo y automatizar tareas.
-
+* 📱 Desarrollando / Developing **[KMPappPiola](https://github.com/jmiguelhdev/KMPappPiola)**, explorando a fondo el desarrollo nativo para Android e iOS compartiendo lógica con Kotlin Multiplatform. *(Diving deep into native Android and iOS development sharing logic with KMP).*
+* ⌨️ Optimizando mis flujos de código usando editores de texto ligeros y herramientas como GitHub CLI. *(Optimizing my coding workflows using lightweight text editors and tools like GitHub CLI).*
+* 🌱 Asumiendo nuevos retos de programación todos los días para seguir expandiendo mis conocimientos de forma autodidacta. *(Taking on new programming challenges every day to keep expanding my knowledge as a self-taught dev).*
 ### 📫 ¡Conectemos!
 
 
